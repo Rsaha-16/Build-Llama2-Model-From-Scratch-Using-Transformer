@@ -1,0 +1,2 @@
+This project aims to implement the Llama2 model from scratch using Transformer architecture. Llama2 is a state-of-the-art natural language processing (NLP) model known for its efficiency and effectiveness in various NLP tasks such as text classification, sentiment analysis, and language generation.
+The output of the code does not give exactly what I asked.... but the architecture of Llama2 is properly defined in the code. 
